@@ -1,0 +1,55 @@
+//console.log (5+3)
+var num1 = 5;
+var num2 = 5;
+console.log(num1 + num2);
+var num3 = 7;
+var num4 = 6;
+var sum = num3 + num4 + 10;
+console.log(sum);
+var num5 = 10;
+var num6 = 2;
+var sum1 = num5 - num6;
+console.log(sum1);
+var num7 = 2;
+var num8 = 10;
+var sum3 = num7 * num8;
+console.log(sum3);
+var num9 = 10;
+var num10 = 2;
+var sum4 = num9 / num10;
+console.log(sum4);
+var pencils = 21;
+var students = 5;
+var sum5 = pencils % students;
+console.log(sum5);
+var num11 = 5;
+var num12 = 2;
+var sum6 = Math.pow(num11, num12);
+console.log(sum6);
+var name1 = "malaika";
+var name2 = " Zahid ";
+console.log(name1 + name2);
+var name3 = "malaika";
+var name4 = "zahid";
+console.log(name3 + " " + name4);
+var name5 = "malaika zahid";
+var name6 = " zahid ";
+//console.log  (name5 - name5)
+var name7 = "malaika";
+var num13 = 55;
+console.log(name7 + num13);
+var n = 5;
+n = n + 5;
+console.log(n);
+var o = 8;
+o = o + 65;
+console.log(o);
+var p = 5;
+p += 3;
+console.log(p);
+//comparison operators
+console.log(10 == 10);
+console.log(10 != 10);
+//console.log (10 == "10abc")
+console.log(5 <= 5);
+console.log(2 >= 5);

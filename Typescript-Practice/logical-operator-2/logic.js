@@ -1,0 +1,51 @@
+//&& and and sign me dono answer true hongy tu hi true answer aye ga
+var num1 = 7;
+var num2 = 5;
+console.log(num1 == num2 && num2 == 4);
+var num3 = 3;
+var num4 = 3;
+console.log(num3 == num4 && num3 == 3);
+var num5 = 7;
+var num6 = 7;
+console.log(num5 == num6 && num5 == 9);
+var num7 = 5;
+var num8 = 4;
+console.log(num7 != num8 && num8 == 4);
+var num9 = 6;
+var num10 = 5;
+console.log(num9 > num10 && num10 < 6);
+var myNum = "malaika";
+var myNum1 = "ruby";
+console.log(myNum == myNum1 && myNum != myNum1);
+// || or sign me agr ek bhi condition true aye gi tu true answer aye ga false answer tab aye ga jb dono consitions 
+// false ho
+var num11 = 8;
+var num12 = 6;
+console.log(num11 == num12 || num12 == 7);
+var num13 = 3;
+var num14 = 3;
+console.log(num13 == num14 || num13 == 0);
+var num15 = 2;
+var num16 = 3;
+console.log(num15 != num16 || num16 != 4);
+var num17 = 1;
+var num18 = 6;
+console.log(num17 > 7 || num18 < 5);
+var myNum2 = "faiza";
+var myNum3 = "faiza hariz";
+console.log(myNum2 == myNum3 || myNum2 != myNum3);
+//! not sign me ye true ko false or false ko true kr deta hy
+var num19 = 7;
+var num20 = 3;
+console.log(!(num19 == num20));
+var num21 = 6;
+var num22 = 4;
+console.log(!(num21 > num22));
+console.log(!(3 < 8));
+console.log(!(8 < 3));
+var num23 = 9;
+var num24 = 10;
+console.log(!(num23 != num24));
+var myNum4 = "mahnoor";
+var myNum5 = "mahnoor";
+console.log(!(myNum4 === myNum5));
